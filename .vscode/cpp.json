@@ -1,0 +1,18 @@
+{
+	"C++ Template": {
+	  "prefix": "cppstart",
+	  "body": [
+		"#include <bits/stdc++.h>",
+		"using namespace std;",
+		"",
+		"int main()",
+		"{",
+		"    $0", // Place for the cursor after the snippet is inserted
+		" ",
+		"    return 0;",
+		"}"
+	  ],
+	  "description": "Insert C++ start template"
+	}
+  }
+  
